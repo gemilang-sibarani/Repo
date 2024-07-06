@@ -1,2 +1,2 @@
 # Repo
-Repository for my codes
+Repository for open source code
