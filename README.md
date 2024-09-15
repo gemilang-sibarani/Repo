@@ -23,4 +23,4 @@ Feel free to browse through the files and use them as needed.
 To clone this repository to your local machine, use the following command:
 
 ```bash
-git clone https://github.com/your-username/your-repository.git
+git clone https://github.com/gemilang-sibarani/repo.git
