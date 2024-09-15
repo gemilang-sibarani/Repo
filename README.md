@@ -1,9 +1,9 @@
 # 💻 Public Code Repository
 
-![GitHub repo size](https://img.shields.io/github/repo-size/your-username/your-repository?color=green&style=for-the-badge)
-![GitHub last commit](https://img.shields.io/github/last-commit/your-username/your-repository?style=for-the-badge)
-![GitHub stars](https://img.shields.io/github/stars/your-username/your-repository?style=for-the-badge)
-![GitHub forks](https://img.shields.io/github/forks/your-username/your-repository?style=for-the-badge)
+![GitHub repo size](https://img.shields.io/github/repo-size/gemilang-sibarani/repo?color=green&style=for-the-badge)
+![GitHub last commit](https://img.shields.io/github/last-commit/gemilang-sibarani/repo?style=for-the-badge)
+![GitHub stars](https://img.shields.io/github/stars/gemilang-sibarani/repo?style=for-the-badge)
+![GitHub forks](https://img.shields.io/github/forks/gemilang-sibarani/repo?style=for-the-badge)
 
 This repository is designed to store my code publicly so that I can access it from any device or location. It serves as a centralized hub for managing my code, making it easy to:
 
